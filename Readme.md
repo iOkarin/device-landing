@@ -1,7 +1,6 @@
 # Личный проект «Девайс»
 
-* Студент: [iOkarin].
-
+- Студент: [iOkarin].
 
 ---
 
@@ -14,7 +13,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+роооор
 
 #### 2. Создайте форк
 
@@ -37,5 +36,3 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 #### 4. Начинайте обучение!
 
 ---
-
-
